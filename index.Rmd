@@ -1,7 +1,8 @@
 ---
-title: "Hello There"
+title: "Hi!"
 ---
 
-Welcome to my website! 
+# Welcome to my domain 
 
-Here you can see all the awesome projects I'm working on. 
+Hey everyone welcome to my website, I'm not sure what to put on here yet.
+Data science is going to be interesting!
